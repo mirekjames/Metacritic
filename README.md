@@ -1,9 +1,9 @@
-#Metacritic-Scraper
+# Metacritic-Scraper
 
 This scraper automatically scrolls down the Metacritic page for a given game and gets the username of the reviewer, the date of the review, the score, and the text of the review.
 It exports to a .csv file.
 
-##To Use:
+## To Use:
 
 1. Go to the user review page for the game. (ex. https://www.metacritic.com/game/baldurs-gate-3/user-reviews/)
 2. Change the 'game' variable to the name of the game as it appears in the url (ex. baldurs-gate-3)
